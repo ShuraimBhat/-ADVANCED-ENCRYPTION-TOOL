@@ -48,7 +48,7 @@ Do you want to (E)ncrypt or (D)ecrypt? e
 Enter the file path: secret.txt
 Enter the output file path: encrypted.dat
 ```
-#### Example Output:
+#### Output:
 ```plaintext
 File encrypted successfully: encrypted.dat
 ```
@@ -77,13 +77,6 @@ File decrypted successfully: decrypted.txt
 ## Legal Disclaimer
 This tool is intended for legal and ethical use only. Unauthorized encryption or decryption of files may violate data privacy laws.
 
-## License
-This project is licensed under the MIT License.
 
-## Contributions
-Contributions are welcome! Fork the repository and submit a pull request with enhancements.
-
-## Author
-Developed by [Your Name](https://github.com/yourusername).
 
 
